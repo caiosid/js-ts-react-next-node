@@ -12,3 +12,5 @@ console.log((24 / 3) * (5 + 2));
 console.log(45 - 3 * (8 - 2));
 console.log((4 ** 2 / 5) * (18 + 12));
 console.log(((4 + 1) * 2) / 60 + 7);
+
+
