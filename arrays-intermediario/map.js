@@ -1,4 +1,10 @@
 // Array map
+
+/**
+ * O método map() em programação (muito comum em JavaScript) é uma função que percorre todos os itens de um array (lista), aplica uma ação ou cálculo em cada um deles e retorna um novo array com os resultados, sem alterar o array original
+ */
+
+
 const carrosEsportivosJaponeses = [
   "Nissan Skyline GT-R",
   "Toyota Supra (A80)",
