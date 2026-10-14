@@ -4,6 +4,9 @@
 //console.log(img.src)
 
 function alterar() {
-    const link = document.querySelector('#link')
-    console.log(link.id)
+/*const img = document.querySelector('#img')
+img.scr= "img/grafico.png"*/    
+
+const link = document.querySelector('#link')
+link.href="https://www.youtube.com/"
 }
