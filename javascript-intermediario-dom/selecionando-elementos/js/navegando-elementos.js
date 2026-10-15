@@ -1,0 +1,8 @@
+const lista = document.querySelector('div#itens')
+//console.log(lista)
+//console.log(lista.parentNode)
+// //console.log(lista.childNodes)
+//console.log(lista.firstChild)
+//console.log(lista.lastChild)
+console.log(lista.nextSibling)
+console.log(lista.nextElementSibling)
